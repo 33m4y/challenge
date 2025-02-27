@@ -1,0 +1,70 @@
+img{
+    width:336px;
+    height:152px;
+    border-radius: 8px;
+    margin-bottom: 12px; 
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.box{ 
+   background-color:#FAFAF9;
+   box-shadow:4px 4px 50px #E5EAF0;
+   width: 368px;
+   border-radius: 12px;
+   display: block;
+   justify-content: center; 
+   align-items: center;
+}
+.box p{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-right: 16px;
+}
+.design{
+    font-family: Sora;
+    color: #6F36A9;
+    border-radius: 16px;
+    background-color: #F2EAFD;
+    padding-top:4px;
+    padding-bottom: 4px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-weight:600;
+    font-size: 10px;
+}
+.titre{
+    margin-left: 16px;
+    font-family: Sora;
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 6px;
+}
+.sous{
+    margin-right: 16px;
+    margin-left: 16px;
+    font-family: Sora;
+    font-size: 14px;
+    font-weight: 250;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+hr{
+  border: none; 
+  height: 1.2px; 
+  background-color: #E5EAF0;
+  width: 100%;
+}
+.annie{
+    margin-left: 16px;
+    font-family: Sora;
+    font-size: 12px;
+    color:#20293A;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
